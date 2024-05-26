@@ -77,6 +77,22 @@ img#decor {
   font-size: 25px;
 }
 
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  font-size: 30px;
+}
+
+a {
+  color: #000000e8;
+}
+
+a:hover {
+  color: #f65454;
+}
+
 /* Media queries */
 @media screen and (min-width: 701px) {
   #text {
