@@ -1,5 +1,5 @@
 # womenland-summer-parallax
 
-https://dzzhar.github.io/womenland-parallax/
+https://parallax-wonderland.000webhostapp.com/
 
 ![asset](./screencapture.png)
